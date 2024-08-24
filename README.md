@@ -20,6 +20,7 @@ This repo is created by loosely following the Merkle tree lesson on LearnWeb3 (h
 git clone https://github.com/SajidSheikh87/LW3-merkle-trees
 cd LW3-merkle-trees
 make
+make install
 ```
 
 # Quickstart 
